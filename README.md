@@ -1,5 +1,7 @@
 # Boat
 
+![Boat](boat.gif)
+
 ## The Boat Model
 I made boat model from scratch in Blender. It was modelled after this boat:
 
