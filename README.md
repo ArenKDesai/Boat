@@ -8,7 +8,7 @@ I made boat model from scratch in Blender. It was modelled after this boat:
 These three textures (basket, blast_mold and steel) were taken from [poliigon.com](https://www.poliigon.com/).
 
 ## The Water
-The water is just the default High-Definition Render Pipeline ocean water. 
+The water is the default High-Definition Render Pipeline ocean water. 
 
 ## Snow
-TODO
+The snow is a default particle system with some settings changed. 
