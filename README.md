@@ -2,6 +2,8 @@
 
 ![Boat](boat.gif)
 
+This was a quick project to prove I understand and can use Blender and Unity, specifically the High Definition Render Pipeline (but I can also do the Universal and built-in pipelines). 
+
 ## The Boat Model
 I made boat model from scratch in Blender. It was modelled after this boat:
 
